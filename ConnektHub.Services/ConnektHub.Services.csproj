@@ -53,10 +53,6 @@
     <Compile Include="User\UserService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConnektHub.Core\ConnektHub.Core.csproj">
-      <Project>{85e286cf-6cab-46c9-b860-c9aaccdce73c}</Project>
-      <Name>ConnektHub.Core</Name>
-    </ProjectReference>
     <ProjectReference Include="..\ConnektHub.SQLiteHelper\ConnektHub.SQLiteHelper.csproj">
       <Project>{7cd045a2-93ab-490d-bce7-9d973102da72}</Project>
       <Name>ConnektHub.SQLiteHelper</Name>

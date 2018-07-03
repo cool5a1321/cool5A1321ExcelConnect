@@ -3,37 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnektHub", "ConnektHub\ConnektHub.csproj", "{75A755F6-4D25-4679-9A4F-694319D2F34E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnektHub.Core", "ConnektHub.Core\ConnektHub.Core.csproj", "{85E286CF-6CAB-46C9-B860-C9AACCDCE73C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnektHub.Services", "ConnektHub.Services\ConnektHub.Services.csproj", "{FCE029F9-DE0A-49B8-8AFB-B6C2E09259BA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnektHub.SQLiteHelper", "ConnektHub.SQLiteHelper\ConnektHub.SQLiteHelper.csproj", "{7CD045A2-93AB-490D-BCE7-9D973102DA72}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{75A755F6-4D25-4679-9A4F-694319D2F34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75A755F6-4D25-4679-9A4F-694319D2F34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75A755F6-4D25-4679-9A4F-694319D2F34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75A755F6-4D25-4679-9A4F-694319D2F34E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{85E286CF-6CAB-46C9-B860-C9AACCDCE73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{85E286CF-6CAB-46C9-B860-C9AACCDCE73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{85E286CF-6CAB-46C9-B860-C9AACCDCE73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{85E286CF-6CAB-46C9-B860-C9AACCDCE73C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FCE029F9-DE0A-49B8-8AFB-B6C2E09259BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FCE029F9-DE0A-49B8-8AFB-B6C2E09259BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FCE029F9-DE0A-49B8-8AFB-B6C2E09259BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FCE029F9-DE0A-49B8-8AFB-B6C2E09259BA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7CD045A2-93AB-490D-BCE7-9D973102DA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7CD045A2-93AB-490D-BCE7-9D973102DA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7CD045A2-93AB-490D-BCE7-9D973102DA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7CD045A2-93AB-490D-BCE7-9D973102DA72}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
