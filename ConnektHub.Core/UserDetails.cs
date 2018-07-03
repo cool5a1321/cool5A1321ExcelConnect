@@ -2,6 +2,8 @@
 {
     public class UserDetails
     {
+
+        //These are all getter and setters
         public bool isSSF { get; set; }
         public string roleId { get; set; }
         public string userId { get; set; }
